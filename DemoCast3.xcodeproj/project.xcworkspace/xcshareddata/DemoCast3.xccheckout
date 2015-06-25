@@ -10,14 +10,14 @@
 	<string>DemoCast3</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>715A88682DFC1AB248B904523E0D2CC165E7E0A5</key>
+		<key>6D0B706FB95C9516BAA55AA4B55DA506A0351E57</key>
 		<string>https://github.com/manjonn/DemoCast4.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DemoCast3.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>715A88682DFC1AB248B904523E0D2CC165E7E0A5</key>
+		<key>6D0B706FB95C9516BAA55AA4B55DA506A0351E57</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>715A88682DFC1AB248B904523E0D2CC165E7E0A5</string>
+	<string>6D0B706FB95C9516BAA55AA4B55DA506A0351E57</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>715A88682DFC1AB248B904523E0D2CC165E7E0A5</string>
+			<string>6D0B706FB95C9516BAA55AA4B55DA506A0351E57</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DemoCast5</string>
 		</dict>

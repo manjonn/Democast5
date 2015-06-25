@@ -12,5 +12,15 @@ class ToDo {
     
     var toDoItem:String=""
     var date:NSDate = NSDate()
+    var auther:String=""
+    
+    init(){
+        
+    }
+    init(toDoItem pToDoItem:String, date pDate:NSDate, auther pAuther:String){
+        toDoItem=pToDoItem
+        date=pDate
+        auther=pAuther
+    }
     
 }

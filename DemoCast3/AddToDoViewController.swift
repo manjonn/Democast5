@@ -37,7 +37,7 @@ class AddToDoViewController: UIViewController,UITextFieldDelegate {
     @IBAction func save(sender: UIButton) {
         
         let toDo:ToDo=ToDo()
-        toDo.toDoItem=toDoItemTextField.text
+        toDo.toDoItem=toDoItemTextField.text!
         toDo.date=datePicker.date
         
         delegate?.addToDo(toDo)
